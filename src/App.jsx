@@ -4,7 +4,7 @@ function App() {
   return (
     <>
         <div>
-          <h1>Frontend Assignment</h1>
+          <h1>Frontend React Assignment</h1>
         </div>
 
     </>
